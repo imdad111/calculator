@@ -1,1 +1,1 @@
-# calculator
+This is the last project of the odin project foundational cource  most of the part of this project is done by me  i also took the help of the ai but for creating the fuction i describe and some advice  i will not spend muc time in this because i will creat my own capestone so i will do the bare minimum# calculator
